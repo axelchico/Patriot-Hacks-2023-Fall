@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name = "viewport"
+    content="width=device-width",
+    initial-scale="1.0">
+    <meta http-equiv="X-UA-Compatible"
+    content="ie-edge">
+    <title>Waddle</title>
+</head>
+<body>
+    <h1>Waddle</h1>
+    <div id="map"></div>
+    <script>
+        function initMap(){
+            var options = {
+                zoom:2,
+                center:{lat:42.3601,lng:-71.0589}
+            }
+
+            var map = new
+            google.maps.Map(document.getElementById('map'))
+        }
+    </script>
+    <script 
+    import key from key.js
+    asyc defer 
+        src="https://maps.googleapis.com/maps/api/is?key=" + key>
+    </script>
+</body>
+</html>
