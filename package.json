@@ -1,6 +1,10 @@
 {
   "dependencies": {
+<<<<<<< Updated upstream
     "dotenv": "^16.3.1",
     "mongodb": "^6.1.0"
+=======
+    "dotenv": "^16.3.1"
+>>>>>>> Stashed changes
   }
 }
