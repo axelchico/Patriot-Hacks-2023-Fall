@@ -16,22 +16,79 @@
     height: 400px; /* The height is 400 pixels */
     width: 100%; /* The width is the width of the web page */
     background-color: grey;
+    position: absolute;
+    bottom: 0px;
+    }
+    button[type=submit] {
+        background-color: #99cf25;
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-decoration: none;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+    button {border-radius: 80%;}
+    body {
+        background-image: url('data:image/jpeg;base64,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');
+    }
+    html,
+    body {
+        margin: 0,
+    }
+    .banner{
+        background: #009579;
+    }
+    .banner__content{
+        padding: 16px;
+        max-width: 1000px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+    }
+    .banner__text{
+        flex-grow: 1;
+        line-height: 1.4;
+        font-family: 'Quicksand', sans-serif;
+        text-align: center;
+    }
+    label {
+        color: white;
+        padding: 8px;
+        font-family: Arial;
+        text-decoration: none;
     }
     </style>
   <body>
+    <div class = "banner">
+        <div class = "banner__content">
+            <div class = "banner__text">
+                <strong> Waddle remeber to walk smarter not harder </strong> 
+            </div>
+        </div>
+    </div>
     <h3>Waddle</h3>
     <!--The div element for the map -->
     <div id="map"></div>
+    <form id=walk_distance action="/url" method="GET">
+        <label>
+            Please enter your username
+            <input type="text" name="username" id="userInput" minlength="3" maxlength="20" required>
+        </label>
+        <!-- <button onclick="GenereateRoute()" type="submit">Generate</button>   -->
+    </form>
+    <button onclick="GenereateRoute()" type="submit">Generate</button>  
+    <p id="update_walk"></p>
+    
+    <script 
+    async defer src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCjs5TSL0GsL1bJnlS5e0zwBX90TzOzTzg&callback=initMap">
+    </script>
     <script>
-        function initMap(){
-            let uluru = {lat: -25.344, lng: 131.031};
-            let map = new google.maps.Map(
-                document.getElementById('map'), {zoom: 4, center: uluru}
-            );
-            let marker = new google.maps.Marker({position: uluru, map: map})
+        function GenereateRoute(){
+            var input = document.getElementById("userInput").value;
+            alert();
         }
     </script>
-    <script 
-    async defer src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCjs5TSL0GsL1bJnlS5e0zwBX90TzOzTzg&callback=initMap"></script>
+    
   </body>
 </html>
