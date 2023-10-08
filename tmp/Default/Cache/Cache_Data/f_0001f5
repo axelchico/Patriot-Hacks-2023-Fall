@@ -1,0 +1,321 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head><title>
+	Calendar
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link id="linkShortcutIcon" rel="shortcut icon" href="https://25livepub.collegenet.com/favicon.ico" /><link id="linkIcon" rel="icon" type="image/png" href="https://25livepub.collegenet.com/favicon.png" /><script id="baseUrl" type="text/javascript">
+	var trumba_baseUrl = '/calendars/events_all?calendar=events_all';
+</script>
+<script type="text/javascript">var rssLinks=[];function addRSSLinks(){for(var i=0;i<rssLinks.length;i++)controller.addHead(rssLinks[i].tag,rssLinks[i].attrs);}</script>
+<script language="javascript" type="text/javascript" src="https://25livepub.collegenet.com/hash5154570CB4BFA1CD90D2EA029CFE90AD/scripts/core.js"></script>
+<style type="text/css">html{font-size:;}body{margin:0;padding:0;font-family:'Open Sans', Verdana, Geneva, sans-serif;background-color:transparent;color:#73726f;}form{margin:0;}img{border:0;}p{margin:1em 0;}a{text-decoration:none;font-weight:normal;white-space:normal;color:#097984;}a:hover,a:focus{text-decoration:none;color:#00a8b8;}a:not([href]),a:hover:not([href]),a:focus:not([href]){text-decoration:inherit!important;color:inherit!important;}strong> a{font-weight:bold;}h1,h2,h3,h4,h5,h6{margin:0;padding:0;font-weight:bold;}tr{vertical-align:top;}td{padding:0;}dl{margin:1em 0;}dd{margin:0;padding:0;}.txNoSpace{margin:0;padding:0;}.txNoTop{margin-top:0;}.txNoBottom{margin-bottom:0;}.txVMid{vertical-align:middle;}.txVMid+label{vertical-align:middle;}input.chkinline{margin:0;padding:0;height:15px;}*{line-height:1.4em;}.txUY{border-width:0 0 1px 0;border-style:dashed;border-color:#000;}a.txUY,.txUY a{text-decoration:none!important;}a.txUY:hover,a.txUY:focus,.txUY a:hover,.txUY a:focus{border-bottom-style:solid;}a.hidelink{position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;}input[type="checkbox"]{accent-color:;}</style><style type="text/css">div.twMiniCalWrap{font-family:'Open Sans', Verdana, Geneva, sans-serif;}div.twMiniCalTitle{height:1%;padding:0px 5px 0px 5px;border-width:1px 1px 0 1px;border-style:solid;border-color:#006940;background-color:#006940;}div.twMiniCalTitle td{vertical-align:middle;}td.twMiniCalMonthLabel{text-align:left;font-family:'Open Sans', Verdana, Geneva, sans-serif;font-size:12pt;color:#ffffff;font-weight:bold;text-transform:none;}td.twMiniCalMonthPager .twPagerBtn{font-size:7px;font-weight:normal;width:15px;height:11px;line-height:11px;}td.twMiniCalMonthPager .twPagerBtn.left{margin-right:2px;border-radius:3px 0px 0px 3px;}td.twMiniCalMonthPager .twPagerBtn.right{border-radius:0px 3px 3px 0px;}table.twMiniCalTable{table-layout:fixed;border-width:1px;border-style:solid;border-color:#cdcbc4;background-color:#ffffff;}table.twMiniCalTable td{font-family:'Open Sans', Verdana, Geneva, sans-serif;font-size:10pt;text-align:center;border-width:1px;border-style:solid;border-color:#cdcbc4;color:#73726f;padding:0px 0px 0px 0px;}table.twMiniCalTable td a{text-decoration:none;display:block;font-weight:bold;color:#000000;}table.twMiniCalTable td a:hover,table.twMiniCalTable td a:focus{text-decoration:underline;color:#097984;}table.twMiniCalTable .twMiniCalWeek{border-width:0;font-family:'Open Sans', Verdana, Geneva, sans-serif;font-size:10pt;font-weight:bold;color:#ffffff;background-color:#005232;padding:0px 0px 0px 0px;}table.twMiniCalTable .twMiniCalWeek abbr[title]{text-decoration:none;}table.twMiniCalTable td.twMiniCalToday{font-family:'Open Sans', Verdana, Geneva, sans-serif;font-size:10pt;color:#73726f;background-color:#f9db8b;}table.twMiniCalTable td.twMiniCalToday a{color:#000000;font-weight:bold;}table.twMiniCalTable td.twMiniCalToday a:hover,table.twMiniCalTable td.twMiniCalToday a:focus{color:#097984;}table.twMiniCalTable td.twMiniCalDay,table.twMiniCalTable td.twMiniCalEventDay{font-family:'Open Sans', Verdana, Geneva, sans-serif;font-size:10pt;color:#73726f;background-color:#ffffff;}table.twMiniCalTable td.twMiniCalEventDay a{color:#000000;font-weight:bold;}table.twMiniCalTable td.twMiniCalEventDay a:hover,table.twMiniCalTable td.twMiniCalEventDay a:focus{color:#097984;}table.twMiniCalTable td.twMiniCalWeekendDay,table.twMiniCalTable td.twMiniCalWeekendEventDay{font-family:'Open Sans', Verdana, Geneva, sans-serif;font-size:10pt;color:#73726f;background-color:#ffffff;}table.twMiniCalTable td.twMiniCalWeekendEventDay a{color:#000000;font-weight:bold;}table.twMiniCalTable td.twMiniCalWeekendEventDay a:hover,table.twMiniCalTable td.twMiniCalWeekendEventDay a:focus{color:#097984;}table.twMiniCalTable td.twMiniCalOtherMonthDay,table.twMiniCalTable td.twMiniCalOtherMonthEventDay{font-family:'Open Sans', Verdana, Geneva, sans-serif;font-size:10pt;color:#7f7e7b;background-color:#eff0e7;}table.twMiniCalTable td.twMiniCalOtherMonthEventDay a{color:#7f7e7b;font-weight:bold;}table.twMiniCalTable td.twMiniCalOtherMonthEventDay a:hover,table.twMiniCalTable td.twMiniCalOtherMonthEventDay a:focus{color:#097984;}table.twMiniCalTable td.twMiniCalSelectedDay,table.twMiniCalTable td.twMiniCalSelectedEventDay{background-color:#ccc;}</style><script language="javascript" type="text/javascript">var Atmc2Url = 'https://25livepub.collegenet.com/eventactions/events_all#'; var Atmc2RsvpUrl = 'https://25livepub.collegenet.com/eareg.aspx?ea=Rsvp'</script>
+<style type="text/css">a.twPagerArrowLeft,a.twPagerArrowRight{line-height:1em;white-space:nowrap;}a.twPagerArrowLeft{margin-right:4px;}.twPagerGroup{display:inline-block;white-space:nowrap;}.twPagerBtn{font-family:Arial,Times New Roman;display:inline-block;*display:inline;color:#ffffff;background-color:#097984;border:solid 1px #097984;font-size:10px;font-weight:normal;width:24px;height:15px;line-height:15px;text-align:center;text-decoration:none;}.twPagerBtn.left{border-radius:4px 0px 0px 4px;margin-right:2px;}.twPagerBtn.mid{margin-right:2px;}.twPagerBtn.right{border-radius:0px 4px 4px 0px;}.twPagerBtn:hover,.twPagerBtn:focus{color:#ffffff;background-color:#00a8b8;border-color:#00a8b8;text-decoration:none;}.twPagerBtn.inactive{color:#ffffff;background-color:#cccccc;border-color:#cccccc;cursor:default;}</style>
+<script type="text/javascript">
+var cur=typeof(onload)!="undefined"?onload:null;
+onload=function(){if(window.opener!=null)window.focus();if(cur!=null)cur();}
+</script>
+<link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700|Roboto+Slab:400,300,700' rel='stylesheet' type='text/css'><meta name="robots" content="noindex, nofollow"><script type="text/javascript">
+function TrumbaPhoneHome()
+{
+	if (mySpud && mySpud != null && !mySpud.closed)
+	{
+		(new Image(1,1)).src = "https://25livepub.collegenet.com/et.aspx?calendar=28393&deed=2&spud=25";
+	}
+}
+window.setTimeout(TrumbaPhoneHome, 1000);
+</script></head>
+<body>
+
+<script type="text/javascript" id="everySpudScript">
+function Nav(q,baseUrl){mySpud.navigate(q,false,baseUrl);}
+function NavAbs(url){mySpud.navigate(url,true);}
+var mySpud=null;
+var controller=null;
+if(typeof(Trumba)=="undefined"){Trumba={};Trumba.Spuds={popupOnClick:function(){},popupOnMouseOver:function(){},popupOnMouseOut:function(){}};}
+var _SCL=typeof SpudConnector!="undefined"?SpudConnector._listeners:{};
+SpudConnector = {
+	_connected: false,
+	_spud: null,
+	_controller: null,
+	_listeners: _SCL,
+	getController: function () { return this._controller; },
+	addEventListener: function (eventName, callback) {
+		if (this._connected) { callback(this._spud); return; }
+		if (this._listeners[eventName] == null) this._listeners[eventName] = [];
+		this._listeners[eventName].push(callback);
+	},
+	_fireEvent: function (eventName) {
+		var listeners = this._listeners[eventName];
+		if (listeners == null) return;
+		for (var i = 0; i < listeners.length; i++) listeners[i](this._spud);
+	},
+	connect: function () {
+		try {
+			if (window.parent && (window.parent["$Trumba"] == null)) { window.setTimeout(SpudConnector.connect, 100); return; }
+			this._controller = window.parent.$Trumba.Spuds.controller;
+			this._spud = this._controller.getSpud(window.name);
+			mySpud = this._spud;
+			controller = this._controller;
+			if (mySpud == null) { window.parent.location.reload(); return; } //Bug5140
+		}
+		catch (e) { return; }
+		var f = function () {
+			if (SpudConnector._connected) { mySpud.resize(); return; }
+			SpudConnector._connected = true;
+			SpudConnector._fireEvent("connect");
+			if (typeof (spudTitle) != "undefined" && mySpud.setTitle) mySpud.setTitle(spudTitle);
+            if (typeof setTelephoneAnchorsTarget == "function") setTelephoneAnchorsTarget();
+            if (typeof Trumba.Spuds.setDetailHrefs == "function") Trumba.Spuds.setDetailHrefs();
+            if (typeof Trumba.Spuds.setCononicalURL == "function") Trumba.Spuds.setCononicalURL();
+            if (typeof trumbaEnableHistory != "undefined" && typeof controller.setupHistory != "undefined") controller.setupHistory(mySpud, trumbaEnableHistory, trumbaEnablePermalinks);
+            mySpud.onSpudLoaded();
+		}
+		if (window.addEventListener) {
+			window.addEventListener("load", f, true);
+			window.addEventListener("DOMContentLoaded", f, true);
+		}
+		else if (window.attachEvent) window.attachEvent("onload", f);
+		else {
+			var vector = typeof (window.onload) != "undefined" ? window.onload : null;
+			window.onload = function () { f(); if (vector != null) vector(); }
+		}
+	}
+}
+_SCL=null;delete _SCL;
+SpudConnector.connect();
+</script>
+<script type="text/javascript">if(rssLinks.length>0)SpudConnector.addEventListener("connect",addRSSLinks);</script>
+
+
+<form name="Form1" method="post" action="e.aspx?calendar=events_all&amp;widget=datefinder&amp;spudformat=xhr" id="Form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwNTgzNzY1NzBkZDQICa4hMSYrRs4a7jdi+yT15VZN5DU8w0EWlawDPo5a" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var trumba_ArgList = {fontscheme:{},colorscheme:{},calendar:{},date:{},filter1:{},filter2:{},filter3:{},filter4:{},filter5:{},search:{},mix:{},mixin:{},mixout:{},radius:{},lat:{},lon:{},location:{},zone:{}};var spudTitle = 'Date Finder Calendar Listing';//]]>
+</script>
+
+
+<style>span.visually-hidden{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0;}</style>
+<script type="text/javascript">
+function NavWithReturnUrl(diffQS){
+	var qs=new TQueryString(window.parent.location.search);
+	if (qs.getAt("winClose")){
+		try{window.parent.opener.focus();}catch(e){}
+		try{window.parent.close();}catch(e){}
+		return;}
+	var arg=qs.getAt("trumbaEmbed");
+	if(arg&&arg[1]){
+		qs=new TQueryString(arg[1]);
+		arg=qs.getAt("returnUrl");}
+	if(arg&&arg[1])window.top.location.href=arg[1];
+	else Nav(diffQS);}
+function trumba_ApplyArgList(){if(typeof(trumba_ArgList)!="undefined")mySpud.argList=trumba_ArgList;}
+if(typeof(SpudConnector)!="undefined")SpudConnector.addEventListener("connect",trumba_ApplyArgList);
+</script>
+
+<span id="spanOpenWindowMessage" class="visually-hidden">opens in new window</span>
+
+
+<script type="text/javascript">
+function findTeaser(){
+	var base=null;
+	if (typeof(window.trumba_teaserBase)!="undefined")base=window.trumba_teaserBase;
+	else{try{
+		if(typeof(mySpud)!="undefined"&&mySpud!=null)base=mySpud.getProperty("teaserBase");
+		if((base==null)&&typeof(window.parent.trumba_teaserBase)!="undefined")base=window.parent.trumba_teaserBase;
+		}catch(e){}}
+	return base;
+}
+function navNoBase(q){if(typeof(window.oldNav)=="function")window.oldNav(q);}
+SpudConnector.addEventListener("connect",
+function(){
+	if(typeof(window.oldNav)=="undefined")window.oldNav=window.Nav;
+	var teaser=findTeaser();
+	if((typeof(mySpud)!="undefined")&&(mySpud!=null)&&!mySpud.getProperty("teaserBase"))
+	   mySpud.setProperty("teaserBase",teaser);
+	if(teaser!=null)
+		window.Nav=function(q,baseURL){
+			var theBase='teaserBase';
+			if(baseURL&&(mySpud.getProperty(baseURL)!=null))theBase = baseURL;
+			mySpud.navigate(q,false,theBase);}
+});
+</script><div class="trumba">
+
+<script type="text/javascript">
+mySpud.pageDate = "20231008";
+</script>
+
+<div id="ctl04_ctl01_pagerMonth" class="twMiniCalWrap">
+	<div class="twMiniCalTitle">
+		
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tr>
+			<td class="twMiniCalMonthLabel" role="heading" aria-level="2">October 2023</td>
+			<td class="twMiniCalMonthPager" style="width:1px;white-space:nowrap;" valign="middle">
+				
+<a href="javascript:navNoBase('date=20230901&index=0')" id="ctl04_ctl01_ctl00_pager_ctl00_lnkPrevious" class="twPagerArrowLeft" role="button" onclick="mySpud.container.scrollIntoView();"><img src="https://25livepub.collegenet.com/i/DgBhs8zgbCpZ8uH%2Ad9sIc2QT.png" width="10" height="10" alt="Previous Month" /></a><a href="javascript:navNoBase('date=20231101&index=0')" id="ctl04_ctl01_ctl00_pager_ctl00_lnkNext" class="twPagerArrowRight" role="button" onclick="mySpud.container.scrollIntoView();"><img src="https://25livepub.collegenet.com/i/DgDansoutb5z543NvRFMw9u6.png" width="10" height="10" alt="Next Month" /></a>
+<span class="spanGroupDateRange"></span>
+
+			</td>
+		</tr>
+		</table>
+	
+	</div><div class="twMiniCalDiv"><table class="twMiniCalTable" cellspacing="0" cellpadding="0" width="100%" border="0" style="border-collapse:collapse;">
+		<tr>
+			<th class="twMiniCalWeek"><abbr title="Sunday">S</abbr></th><th class="twMiniCalWeek"><abbr title="Monday">M</abbr></th><th class="twMiniCalWeek"><abbr title="Tuesday">T</abbr></th><th class="twMiniCalWeek"><abbr title="Wednesday">W</abbr></th><th class="twMiniCalWeek"><abbr title="Thursday">T</abbr></th><th class="twMiniCalWeek"><abbr title="Friday">F</abbr></th><th class="twMiniCalWeek"><abbr title="Saturday">S</abbr></th>
+		</tr><tr>
+			<td class="twMiniCalWeekendEventDay">
+        <a href="javascript:Nav('date=20231001')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231001" url.date="20231001" url.search="" >1</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231002')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231002" url.date="20231002" url.search="" >2</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231003')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231003" url.date="20231003" url.search="" >3</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231004')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231004" url.date="20231004" url.search="" >4</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231005')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231005" url.date="20231005" url.search="" >5</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231006')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231006" url.date="20231006" url.search="" >6</a>
+        
+    </td><td class="twMiniCalWeekendEventDay">
+        <a href="javascript:Nav('date=20231007')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231007" url.date="20231007" url.search="" >7</a>
+        
+    </td>
+		</tr><tr>
+			<td class="twMiniCalToday">
+        <a href="javascript:Nav('date=20231008')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231008" url.date="20231008" url.search="" >8</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231009')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231009" url.date="20231009" url.search="" >9</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231010')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231010" url.date="20231010" url.search="" >10</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231011')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231011" url.date="20231011" url.search="" >11</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231012')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231012" url.date="20231012" url.search="" >12</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231013')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231013" url.date="20231013" url.search="" >13</a>
+        
+    </td><td class="twMiniCalWeekendEventDay">
+        <a href="javascript:Nav('date=20231014')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231014" url.date="20231014" url.search="" >14</a>
+        
+    </td>
+		</tr><tr>
+			<td class="twMiniCalWeekendEventDay">
+        <a href="javascript:Nav('date=20231015')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231015" url.date="20231015" url.search="" >15</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231016')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231016" url.date="20231016" url.search="" >16</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231017')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231017" url.date="20231017" url.search="" >17</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231018')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231018" url.date="20231018" url.search="" >18</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231019')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231019" url.date="20231019" url.search="" >19</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231020')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231020" url.date="20231020" url.search="" >20</a>
+        
+    </td><td class="twMiniCalWeekendEventDay">
+        <a href="javascript:Nav('date=20231021')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231021" url.date="20231021" url.search="" >21</a>
+        
+    </td>
+		</tr><tr>
+			<td class="twMiniCalWeekendEventDay">
+        <a href="javascript:Nav('date=20231022')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231022" url.date="20231022" url.search="" >22</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231023')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231023" url.date="20231023" url.search="" >23</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231024')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231024" url.date="20231024" url.search="" >24</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231025')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231025" url.date="20231025" url.search="" >25</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231026')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231026" url.date="20231026" url.search="" >26</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231027')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231027" url.date="20231027" url.search="" >27</a>
+        
+    </td><td class="twMiniCalWeekendEventDay">
+        <a href="javascript:Nav('date=20231028')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231028" url.date="20231028" url.search="" >28</a>
+        
+    </td>
+		</tr><tr>
+			<td class="twMiniCalWeekendEventDay">
+        <a href="javascript:Nav('date=20231029')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231029" url.date="20231029" url.search="" >29</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231030')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231030" url.date="20231030" url.search="" >30</a>
+        
+    </td><td class="twMiniCalEventDay">
+        <a href="javascript:Nav('date=20231031')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231031" url.date="20231031" url.search="" >31</a>
+        
+    </td><td class="twMiniCalOtherMonthEventDay">
+        <a href="javascript:Nav('date=20231101')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231101" url.date="20231101" url.search="" >1</a>
+        
+    </td><td class="twMiniCalOtherMonthEventDay">
+        <a href="javascript:Nav('date=20231102')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231102" url.date="20231102" url.search="" >2</a>
+        
+    </td><td class="twMiniCalOtherMonthEventDay">
+        <a href="javascript:Nav('date=20231103')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231103" url.date="20231103" url.search="" >3</a>
+        
+    </td><td class="twMiniCalOtherMonthEventDay">
+        <a href="javascript:Nav('date=20231104')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231104" url.date="20231104" url.search="" >4</a>
+        
+    </td>
+		</tr><tr>
+			<td class="twMiniCalOtherMonthEventDay">
+        <a href="javascript:Nav('date=20231105')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231105" url.date="20231105" url.search="" >5</a>
+        
+    </td><td class="twMiniCalOtherMonthEventDay">
+        <a href="javascript:Nav('date=20231106')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231106" url.date="20231106" url.search="" >6</a>
+        
+    </td><td class="twMiniCalOtherMonthEventDay">
+        <a href="javascript:Nav('date=20231107')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231107" url.date="20231107" url.search="" >7</a>
+        
+    </td><td class="twMiniCalOtherMonthEventDay">
+        <a href="javascript:Nav('date=20231108')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231108" url.date="20231108" url.search="" >8</a>
+        
+    </td><td class="twMiniCalOtherMonthEventDay">
+        <a href="javascript:Nav('date=20231109')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231109" url.date="20231109" url.search="" >9</a>
+        
+    </td><td class="twMiniCalOtherMonthEventDay">
+        <a href="javascript:Nav('date=20231110')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231110" url.date="20231110" url.search="" >10</a>
+        
+    </td><td class="twMiniCalOtherMonthEventDay">
+        <a href="javascript:Nav('date=20231111')" onmouseover="Trumba.Spuds.popupOnMouseOver(event, this)" onmouseout="Trumba.Spuds.popupOnMouseOut(event, this)" spudname="daysummary" spudwidth="300" spudposition="1" id="anchor20231111" url.date="20231111" url.search="" >11</a>
+        
+    </td>
+		</tr>
+	</table></div>
+</div></div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1174A9D5" />
+</div></form>
+<script type="text/javascript">
+var formElement=document.getElementById("Form1");
+if(formElement)formElement.action="https://25livepub.collegenet.com/e.aspx?calendar=events_all&widget=datefinder&spudformat=xhr";
+</script>
+</body>
+</html>
