@@ -16,7 +16,9 @@ const puppeteer = require('puppeteer');
 
     await browser.close()
 
-})();// Initialize and add the map
+})();
+
+// Initialize and add the map
 let map;
 let directionsService;
 let directionsRenderer;
