@@ -10,6 +10,7 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
 
     <link rel="stylesheet" type="text/css" href="./style.css" />
+    <script type="text/javascript" src="./index.js"></script>
     <script type="module" src="./index.js"></script>
   </head>
   <style>#map {
@@ -72,22 +73,25 @@
     <div id="map"></div>
     <form id=walk_distance action="/url" method="GET">
         <label>
-            Please enter your username
-            <input type="text" name="username" id="userInput" minlength="3" maxlength="20" required>
+            How far do you want to walk?
+            <input type="text" name="username" id="distanceInput" minlength="3" maxlength="20" required>
         </label>
-        <!-- <button onclick="GenereateRoute()" type="submit">Generate</button>   -->
+        <!-- <button onclick="GenerateRoute()" type="submit">Generate</button>   -->
     </form>
-    <button onclick="GenereateRoute()" type="submit">Generate</button>  
     <p id="update_walk"></p>
     
+    <form id=walk_start action="/url" method="GET">
+        <label>
+            Where are you starting your walk?
+            <input type="text" name="username" id="startInput" minlength="3" maxlength="20" required>
+        </label>
+        <!-- <button onclick="GenerateRoute()" type="submit">Generate</button>   -->
+    </form>
+    <button onclick="calcRoute()" type="submit">Generate</button>  
+    <p id="update_walk"></p>
+
     <script 
     async defer src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCjs5TSL0GsL1bJnlS5e0zwBX90TzOzTzg&callback=initMap">
-    </script>
-    <script>
-        function GenereateRoute(){
-            var input = document.getElementById("userInput").value;
-            alert();
-        }
     </script>
     
   </body>
