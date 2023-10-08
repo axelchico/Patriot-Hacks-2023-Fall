@@ -18,7 +18,7 @@ try:
     page_source = driver.page_source
     soup = BeautifulSoup(page_source, 'html.parser')
     print(soup)
-    f = open("demofile.txt", "w")
+    f = open("demoscraper.txt", "w")
     f.write(soup.text)
     f.close()
     events_list = soup.find("span", class_="twEDDescription")
